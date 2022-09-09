@@ -19,6 +19,7 @@
 	1. Right click
 	1. Run with Powershell
 1. Setup Mod Assistant
+    0. Run Beat Saber at least once before running ModAssistant
     1. Launch ModAssistant.exe
 	1. Click Agree
 	1. Install the mod `HTTP Status`
